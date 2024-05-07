@@ -54,6 +54,7 @@ requests = ">=2.22.0,<3.0.0"
 python-dotenv = ">=0.14.0,<0.18.0"
 ecdsa = ">=0.15,<0.17.0"
 importlib-metadata = ">4,<5"
+setuptools = ">69.0.0"
 
 pywin32 = { version = "==303", markers = "sys_platform == 'win32' or platform_system == 'Windows'" }
 
